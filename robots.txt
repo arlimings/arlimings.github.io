@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arlimings.github.io/sitemap
+Sitemap: https://arlimings.github.io/app/sitemap
+Sitemap: https://arlimings.github.io/assets/sitemap
+Sitemap: https://arlimings.github.io/css/sitemap
+Sitemap: https://arlimings.github.io/includes/sitemap
+Sitemap: https://arlimings.github.io/item/sitemap
+Sitemap: https://arlimings.github.io/src/sitemap
